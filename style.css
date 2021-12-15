@@ -33,7 +33,7 @@
     background-image: url(../img/1.webp);
     background-position: center;
     background-size: contain;
-} 
+}
 
 .cuore {
     width: 40px;
@@ -73,24 +73,48 @@
     background-color: green;
 }
 
+#immagine1:hover {
+    background-image: url(../img/1b.webp);
+}
+
 #immagine2 {
     background-image: url(../img/2.webp);
+}
+
+#immagine2:hover {
+    background-image: url(../img/2b.webp);
 }
 
 #immagine3 {
     background-image: url(../img/3.webp);
 }
 
+#immagine3:hover {
+    background-image: url(../img/3b.webp);
+}
+
 #immagine4 {
     background-image: url(../img/4.webp);
+}
+
+#immagine4:hover {
+    background-image: url(../img/4b.webp);
 }
 
 #immagine5 {
     background-image: url(../img/5.webp);
 }
 
+#immagine5:hover {
+    background-image: url(../img/5b.webp);
+}
+
 #immagine6 {
     background-image: url(../img/6.webp);
+}
+
+#immagine6:hover {
+    background-image: url(../img/6b.webp);
 }
 
 .marca {
